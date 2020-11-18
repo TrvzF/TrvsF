@@ -1,1 +1,8 @@
-# TrvsF
+hello, my name is travis i like to make / break things
+significant things ive made
+- wurst+ & wurst+2 [java]
+- english checkers game / ai (with αβ pruning) [c#]
+- csgo trade up finder [py]
+significant things im making
+- wurst+ csgo [c++]
+list is small bc ive only been programming a little over a year & im the king of making half finished shit
